@@ -7,7 +7,8 @@ databases = [
     'blowjob.json',
     'Gifs.json',
     'nsfw.json',
-    'hentai.json'
+    'hentai.json',
+    'futa.json'
 ]
 keep_going_senpai = True
 
